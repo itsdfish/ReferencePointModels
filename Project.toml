@@ -1,7 +1,7 @@
 name = "ReferencePointModels"
 uuid = "2dc075f3-63e3-4758-9998-92471b793ec7"
 authors = ["itsdfish"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
@@ -11,7 +11,7 @@ SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 
 [compat]
 Distributions = "0.25.120"
-PrettyTables = "3.0.11"
+PrettyTables = "2.0"
 Random = "1.11.0"
 SafeTestsets = "0.1.0"
 julia = "1.6.7"
